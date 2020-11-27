@@ -2,3 +2,8 @@ body {
     font: normal 15pt Arial;
     text-align: center;
 }
+
+h1#menu {
+    font-size: 24pt;
+    font-weight: 700;
+}
